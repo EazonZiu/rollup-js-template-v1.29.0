@@ -1,5 +1,5 @@
 {
-  "name": "rollup-starter-lib",
+  "name": "rollup-js-template-v1.29.0",
   "version": "1.0.0",
   "main": "dist/how-long-till-lunch.cjs.js",
   "module": "dist/how-long-till-lunch.esm.js",
