@@ -6,15 +6,15 @@ rollup template link [README.md](https://github.com/rollup/rollup-starter-lib/tr
 
 #### master:
 
-使用 roolup 的 javascript 模版
+使用 rollup 的 javascript 模版
 
 #### babel:
 
-使用 roolup & babel 的 javascript 模版, 为兼容旧版本 javascript
+使用 rollup & babel 的 javascript 模版, 为兼容旧版本 javascript
 
 #### ts:
 
-使用 roolup 的 typescript 模版
+使用 rollup 的 typescript 模版
 
 #### 使用方式:
 
@@ -30,4 +30,10 @@ npm install
 
 ```bash
 npm run build
+```
+
+4.测试
+
+```bash
+npm run test
 ```
